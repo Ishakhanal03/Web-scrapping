@@ -1,0 +1,39 @@
+{
+  "entertainment_news": [
+    {
+      "title": "‘लालीबजार’को ‘मिठो संसार' सार्वजनिक",
+      "image_url": "https://assets-cdn-api.ekantipur.com/thumb.php?src=https://assets-cdn.ekantipur.com/uploads/source/news/kantipur/2026/third-party/swastima-and-prashamsa-subedi-0642026115606-1000x0.jpg&w=701&h=0",
+      "category": "मनोरञ्जन",
+      "author": "कान्तिपुर संवाददाता"
+    },
+    {
+      "title": "निफमा 'गुन्युचोलो: द ड्रेस'को वर्चश्व, अन्तर्राष्ट्रियतर्फ 'राजागंज' सर्वोत्कृष्ट फिल्म",
+      "image_url": "https://assets-cdn-api.ekantipur.com/thumb.php?src=https://assets-cdn.ekantipur.com/uploads/source/news/kantipur/2026/entertainment/1ff5ab51-6cff-40d2-ae9b-926b281742ee-0642026034147-1000x0.jpg&w=701&h=0",
+      "category": "मनोरञ्जन",
+      "author": "कान्तिपुर संवाददाता"
+    },
+    {
+      "title": "नेपाली फिल्ममा एआई : अवसर कि सिर्जनशीलताको संकट ?",
+      "image_url": "https://assets-cdn-api.ekantipur.com/thumb.php?src=https://assets-cdn.ekantipur.com/uploads/source/news/kantipur/2026/third-party/futuristic-dj-using-virtual-reality-glasses-headline-party-play-music-0642026105900-1000x0.jpg&w=701&h=0",
+      "category": "मनोरञ्जन",
+      "author": "समर्पण श्री"
+    },
+    {
+      "title": "‘धुरन्धर २’ को कमाइ १ हजार करोड माथि",
+      "image_url": "https://assets-cdn-api.ekantipur.com/thumb.php?src=https://assets-cdn.ekantipur.com/uploads/source/news/kantipur/2026/third-party/dhurandhar-0642026083748-1000x0.jpg&w=701&h=0",
+      "category": "मनोरञ्जन",
+      "author": "कान्तिपुर संवाददाता"
+    },
+    {
+      "title": "भेनिसमा प्रिमियर भएको चिनियाँ फिल्म निफमा",
+      "image_url": "https://assets-cdn-api.ekantipur.com/thumb.php?src=https://assets-cdn.ekantipur.com/uploads/source/news/kantipur/2026/third-party/niff-novie-0442026123122-1000x0.jpg&w=701&h=0",
+      "category": "मनोरञ्जन",
+      "author": "कान्तिपुर संवाददाता"
+    }
+  ],
+  "cartoon_of_the_day": {
+    "title": "गजब छ बा!",
+    "image_url": "https://assets-cdn-api.ekantipur.com/thumb.php?src=https://assets-cdn.ekantipur.com/uploads/source/news/kantipur/2022/third-party/gajab-chha-ba-821223-0642026094216-1000x0.jpg&w=601&h=0",
+    "author": "अविन"
+  }
+}

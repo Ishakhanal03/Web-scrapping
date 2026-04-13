@@ -1,0 +1,31 @@
+Prompt 1: Write a Playwright Python script to scrape the top 5 articles 
+from https://ekantipur.com/entertainment. Each article card is 
+inside div.category-wrapper > div.category. Extract title from 
+div.category-description > h2, author from div.author-name 
+(null if missing), and image from div.category-image > figure > img 
+using data-src first then src. Save as output.json.
+
+Prompt 2: Some image URLs are relative paths. Add a helper function to 
+convert them to absolute URLs using urljoin.
+
+Prompt 3: Add a second function to scrape the cartoon of the day from 
+https://ekantipur.com/cartoon. The card is inside 
+section.cartoon-main-wrapper > div.col-lg-4. Image URL is in 
+div.cartoon-image > figure > a data-thumb attribute. Title and 
+author are in div.cartoon-description > p as "title - author" 
+format. Split on " - " to separate them.
+
+Prompt 4: The cartoon card is not always found. Add wait_for_timeout(3000) 
+after page.goto and add fallback selectors div.cartoon-main-wrapper 
+and div.cartoon-wrapper.
+
+PROMPT 5: Combine both functions into one script with a main() function. 
+Launch headless Chromium with locale ne-NP and viewport 1440x900. 
+Block font and media resources to speed up loading. Save final 
+output to output.json with ensure_ascii=False for Nepali characters.
+
+
+
+
+
+
